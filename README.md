@@ -48,7 +48,7 @@ SVGinOT Font demos (Firefox only):
 The font can be installed for a user or system-wide. Get the latest version
 from releases: https://github.com/eosrei/twemoji-color-font/releases
 
-*Note: This requires `Bitstream Vera` is installed and will change your
+***Note**: This requires `Bitstream Vera` is installed and will change your
 systems default serif, sans-serif and monospace fonts.*
 
 ### Why Bitstream Vera
@@ -58,7 +58,7 @@ The default serif, sans-serif and monospace font for most Linux distributions is
 `Twitter Color Emoji` the default system font, but that causes a number of issues.
 A better solution is a different font that doesn't override any emoji characters
 such as `Bitstream Vera`. `Bitstream Vera` is the source of the glyphs used in
-`DejaVu`, so it's not very different. 99%+ of people will not notice the
+`DejaVu`, so it's not very different. Many people will not notice the
 difference.
 
 ### Additional default font options
